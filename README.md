@@ -1,2 +1,2 @@
-# godot-on-linux
-The community for running anything Godot on Linux.
+# macOS-recreation
+The community for recreating Mac OS.
